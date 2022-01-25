@@ -1,7 +1,8 @@
 # [Build an App with SvelteKit, Tailwind CSS, Supabase](https://www.youtube.com/watch?v=YipaPr4Aex8)
 
-[Original code repo](https://github.com/jamesqquick/svelte-kit-supabase-todo-app-with-tailwind)
+[Video with Supabase integration](https://www.youtube.com/watch?v=YqIyET7XKIQ)
 
+[Original code repo (James Q Quick)](https://github.com/jamesqquick/svelte-kit-supabase-todo-app-with-tailwind)
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
